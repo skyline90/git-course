@@ -1,5 +1,2 @@
 # Игнорировать файл prepros.config
 prepros.config
-
-# Игнорировать папку js
-/js
